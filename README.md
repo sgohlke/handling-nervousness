@@ -1,6 +1,8 @@
 # handling-nervousness
 Presentation for topic "Handling nervousness in presentations and streams"
 
+[Stream URL](https://stack-stream.com/case/handling-nervousness-in-presentations-and-streams)
+
 ## You
 - People are different, some more introvert, some more extrovert.
   - Know yourself, and accept who you are!
